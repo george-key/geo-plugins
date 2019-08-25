@@ -1,12 +1,12 @@
 ## What is it
-A set of plugins that can be used inside the NEO core library. Check [here](http://docs.neo.org/en-us/node/plugin.html) for the official documentation.
+A set of plugins that can be used inside the GEO core library. Check [here](http://docs.neo.org/en-us/node/plugin.html) for the official  NEO documentation.
 
 ## Using plugins
 Plugins can be used to increase functionality, as well as providing policies definitions of the network.
 One common example is to add the ApplicationLogs plugin in order to enable your node to create log files.
 
 To configure a plugin, do the following:
- - Download the desired plugin from the [Releases page](https://github.com/neo-project/neo-plugins/releases)
+ - Download the desired plugin from the [Releases page](https://github.com/george-key/geo-plugins/releases)
   - Alternative: Compile from source
     - Clone this repository;
     - Open it in Visual Studio, select the plugin you want to enable and select `publish` \(compile it using Release configuration\)
